@@ -1,0 +1,3 @@
+si usa il comando: https://jsonplaceholder.typicode.com/posts/1/comments --include
+
+il content-type è: application/json; charset=utf-8
