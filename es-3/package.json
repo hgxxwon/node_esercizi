@@ -1,0 +1,20 @@
+{
+  "name": "node_exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hgxxwon/node_esercizi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hgxxwon/node_esercizi/issues"
+  },
+  "homepage": "https://github.com/hgxxwon/node_esercizi#readme"
+}
